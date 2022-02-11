@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MarkerTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2021-01-29T20:54:38" hostname="Fuad-MBP" time="0.036">
+  <properties/>
+  <testcase name="getInkLevel()" classname="MarkerTest" time="0.019"/>
+  <testcase name="capOff()" classname="MarkerTest" time="0.002"/>
+  <testcase name="fillTank()" classname="MarkerTest" time="0.001"/>
+  <testcase name="getInkCapacity()" classname="MarkerTest" time="0.001"/>
+  <testcase name="draw()" classname="MarkerTest" time="0.005"/>
+  <testcase name="capOn()" classname="MarkerTest" time="0.001"/>
+  <testcase name="getInkDecrement()" classname="MarkerTest" time="0.0"/>
+  <testcase name="getCapIsOn()" classname="MarkerTest" time="0.0"/>
+  <testcase name="testConstructor()" classname="MarkerTest" time="0.0"/>
+  <system-out><![CDATA[=-35
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
